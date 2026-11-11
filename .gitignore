@@ -1,0 +1,4 @@
+build/
+practice/**/test_game
+practice/**/core
+practice/**/core.*
