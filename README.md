@@ -1,6 +1,6 @@
 # C++ 模擬試験問題（Qt Creator用）
 
-このブランチには自作の模擬問題を置いています。元の授業教材や解答済みの練習ファイルは含めていません。
+このブランチには自作の模擬問題を置いています。元の授業教材や解答済みの練習ファイルは含めていません。問題05は `practice/05_code_lock/README.md` を参照。
 
 ## VMで取得
 
@@ -8,7 +8,7 @@
 git clone --branch cpp-exam-practice --single-branch https://github.com/nikuudon511/c-programming3_8.git cpp-exam-practice
 ```
 
-Qt Creator で `cpp-exam-practice/CMakeLists.txt` を開く。`practice/04_battleship/README.md` の指示を読み、`game.cpp` のTODOを埋める。`practice04` をビルド・実行して確認する。
+Qt Creator で `cpp-exam-practice/CMakeLists.txt` を開く。各問題の `README.md` を読み、TODOを埋める。解く問題のターゲット（`practice04` または `practice05`）をビルド・実行して確認する。
 
 ターミナルなら次のコマンドでも確認できる。
 
