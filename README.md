@@ -1,6 +1,6 @@
 # C++ 模擬試験問題（Qt Creator用）
 
-このブランチには自作の模擬問題を置いています。元の授業教材や解答済みの練習ファイルは含めていません。マインスイーパー基本編は `practice/06_minesweeper_basic/`、AI編は `practice/07_minesweeper_ai/`。
+このブランチには自作の模擬問題と、オフラインで引ける[C++17実装辞書](dictionary/README.md)を置いています。元の授業教材や解答済みの練習ファイルは含めていません。マインスイーパー基本編は `practice/06_minesweeper_basic/`、AI編は `practice/07_minesweeper_ai/`。
 
 ## VMで取得
 
